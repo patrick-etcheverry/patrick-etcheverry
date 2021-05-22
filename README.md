@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="30px"> Hello folks !
+# <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="30px"> About me...
 
 My name is Patrick Etcheverry, I'm a computer science teacher from France and currently working at the [University Institute of Technology of Bayonne](https://www.iutbayonne.univ-pau.fr/).
 
