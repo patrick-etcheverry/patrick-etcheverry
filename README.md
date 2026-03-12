@@ -18,22 +18,23 @@ I am also interested in learning analytics and the use of data and AI to better 
 
 
 ## Connect with me
+
 <p>
-<a href="https://www.linkedin.com/in/patricketcheverry">
+<a style="text-decoration:none" href="https://www.linkedin.com/in/patricketcheverry">
 <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 
-<a href="https://www.iutbayonne.univ-pau.fr/~etchever/">
+<a style="text-decoration:none" href="https://www.iutbayonne.univ-pau.fr/~etchever/">
 <img height="28" src="https://img.shields.io/badge/Website-2ECC71?style=flat&logo=google-chrome&logoColor=white"/>
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 
-<a href="https://cv.hal.science/patrick-etcheverry">
+<a style="text-decoration:none" href="https://cv.hal.science/patrick-etcheverry">
 <img height="28" src="https://img.shields.io/badge/HAL-FF6B35?style=flat&logo=readthedocs&logoColor=white"/>
 </a>
 </p>
 
 <br>
-<table>
+<table style="border-style: hidden;">
 <tr>
 
 <td width="60%" valign="top">
